@@ -8,7 +8,7 @@ A web server is an information technology that processes requests via HTTP, the 
 
 
 <h3> Name </h3>
-Rykon comes from czech sentence  "Rychlost a výkon" means "Speed and performance </br>
+Rykon comes from czech sentence  "Rychlost a vÃ½kon" means "Speed and performance </br>
 
 <h3> Building </h3>
 Development of Rykon began in 2016 by Team Fourneso
@@ -141,6 +141,7 @@ All build in extensions could be protected with a password
 <hr/>Last version (daily updating )
 <a href='https://github.com/4neso/Rykon/archive/master.zip' >Github</a>
 
+<a href='https://www.mediafire.com/?2st34cklsltcmwg > Exe Only </a>
 
 <h4>Ver 2</h4><hr />
 <a href='https://www.dropbox.com/s/ne3z8y6zamj266a/_Rykon_server_v2.zip?dl=0' >Dropbox</a><br />
@@ -153,4 +154,5 @@ All build in extensions could be protected with a password
 <a href='https://www.freedownloadify.org/news/446463/rykon-server-1-0-0-0-freeware' > freedownloadify </a> <br />
 <a href='https://www.dropbox.com/s/cvyo3pd3q1d44qz/Rykon.rar?dl=0' >Dropbox </a> <br />
 <a href='http://www.stahuj.centrum.cz/internet_a_site/servery/webove/rykon-server/' > stahuj </a> <br />
+
 
