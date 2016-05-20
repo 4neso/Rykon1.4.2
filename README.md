@@ -33,7 +33,6 @@ under supervision of<br />
 - PHP</br> <!--
 - Ruby <br/>
 - Python <br/>
-- Ring <br/>
 - Perl </br> -->
 - Customize any interpreted programming language  <br/>
 <br/><br/>
